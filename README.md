@@ -2,7 +2,7 @@
 
 ## About
 
-This was an endeavor to create a storefront akin to Amazon or Etsy, including a sorting of store items by category. Features Google-style search, an entire shopping cart workflow, and a backend for managers to see sales statistics and ship orders. Written in PHP; requires a MySQL database.
+This was an endeavor to create a storefront akin to Amazon or Etsy, including a sorting of store items by category. Features Google-style search, an entire shopping cart workflow with account logins, and a backend for managers to see sales statistics and ship orders. Written in PHP; requires a MySQL database.
 
 ## Database
 
